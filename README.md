@@ -1,9 +1,8 @@
-# NodeJS 后端编程入门教学
-## NodeJS Tutorials For Beginners
+# NodeJS 后端编程入门教学 (NodeJS Tutorials For Beginners)
 
-欢迎点击以下链观看NodeJS入门教学：
+欢迎点击以下链观看NodeJS入门教学! 
 
-https://www.youtube.com/channel/UCUeyghhDd1AguJvxZHvc_jA
+如果在学习中遇到难题，可以去到[Codetisan自学编程社区](https://bit.ly/2AHylzN)和其他同学一起讨论，大家一起学习成长。
 
 
 | Episode | Content |
