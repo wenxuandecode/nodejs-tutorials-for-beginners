@@ -1,4 +1,4 @@
-![nodejs](nodejs.png)
+![nodejs](nodejs.jpg)
 
 ## NodeJS 后端编程入门教学 (NodeJS Tutorials For Beginners)
 
