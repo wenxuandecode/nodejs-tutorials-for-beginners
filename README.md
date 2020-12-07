@@ -13,3 +13,4 @@
 | Episode02 第二集 | [10分钟快速编写属于自己的Node JS后端服务器 - 迈入全端开发的第一步 (Build NodeJS Backend Server Under 10mins)](https://youtu.be/zHB1dn8FU44) |
 | Episode03 第三集 | [NodeJS后端程序怎么知道用户浏览的页面？ (NodeJS GET请求 入门教学) How to handle GET requests in NodeJS server](https://youtu.be/gOPS_1jgaR4)
 | Episode04 第四集 | [NodeJS是怎么处理客户端发过来的GET请求参数 (node js获取http get参数)  NodeJS: How To Parse GET Query String](https://youtu.be/7e1wQDBxxek)
+| Episode05 第五集 | [NodeJS实操登录表单提交和后端处理 HTTP Form Post - How to process form data in NodeJS](https://youtu.be/MQD8lSf439g)
