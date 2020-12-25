@@ -1,0 +1,40 @@
+
+
+1. NVM Github: 
+
+macOS/Linux: https://github.com/nvm-sh/nvm
+Windows: https://github.com/coreybutler/nvm-windows
+
+2. 安装命令：
+
+如果Shell是ZSH:
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | zsh
+
+如果Shell是Bash:
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+
+
+Windows用户去到以下链接下载安装包：
+https://github.com/coreybutler/nvm-windows/releases
+
+
+3. 使用命令：
+
+显示NVM在本地管理的NodeJS版本: 
+$ nvm ls
+
+显示远程可下载的NodeJS版本：
+$ nvm ls-remote        (macOS/Linux命令)
+$ nvm ls available     (Windows命令)
+
+下载NodeJS
+$ nvm install 15.4.0
+
+切换NodeJS版本
+$ nvm use 14.15.3
+
+卸载NodeJS
+$ nvm uninstall 15.4.0
+
+查看更多NVM命令
+$ nvm --help
