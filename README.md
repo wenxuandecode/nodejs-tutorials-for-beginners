@@ -14,6 +14,6 @@
 | Episode03 第三集 | [NodeJS后端程序怎么知道用户浏览的页面？ (NodeJS GET请求 入门教学) How to handle GET requests in NodeJS server](https://youtu.be/gOPS_1jgaR4)
 | Episode04 第四集 | [NodeJS是怎么处理客户端发过来的GET请求参数 (node js获取http get参数)  NodeJS: How To Parse GET Query String](https://youtu.be/7e1wQDBxxek)
 | Episode05 第五集 | [NodeJS实操登录表单提交和后端处理 HTTP Form Post - How to process form data in NodeJS](https://youtu.be/MQD8lSf439g)
-| Episode06 第六集 | [NodeJS NPM 入门介绍 (什么是NPM?) 包管理工具器 模块管理器| Intro to NodeJS Node Package Manager (What is NPM?)](https://youtu.be/5WRw_yZFjdk)
-| Episode07 第七集 | [10分钟学会编写和引用第一个NodeJS模块 (实操module.exports, exports, require语句) | Create 1st NodeJS Module](https://youtu.be/7HCrawdnTuw)
+| Episode06 第六集 | [NodeJS NPM 入门介绍 (什么是NPM?) 包管理工具器 模块管理器 Intro to NodeJS Node Package Manager (What is NPM?)](https://youtu.be/5WRw_yZFjdk)
+| Episode07 第七集 | [10分钟学会编写和引用第一个NodeJS模块 (实操module.exports, exports, require语句) Create 1st NodeJS Module](https://youtu.be/7HCrawdnTuw)
 | Episode08 第八集 | [NodeJS 版本管理工具 NVM (Node Version Manager)  macOS Windows 安装和使用指南 Managing NodeJS with NVM](https://youtu.be/YJdh2E4idmY)
